@@ -1,8 +1,14 @@
 .home {
     height: 45em;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.header{
+    font-size: xx-large;
+    font-weight: 500;
 }
 
 .calculator-view {

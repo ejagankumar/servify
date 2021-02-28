@@ -260,6 +260,7 @@ class Calculator extends Component {
 
         return (
             <div className={'home'}>
+                <div className={'header'}>CALCULATOR</div>
                 <div style={{
                     ...styles[theme].page,
                 }} className={'calculator-view'}>
